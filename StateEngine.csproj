@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>HdcDst.Utils.StateEngine</PackageId>
+    <Authors>Johannes Pandis</Authors>
+    <Product>HdcDst.Utils.StateEngine</Product>
+    <AssemblyName>HdcDst.Utils.StateEngine</AssemblyName>
+    <RootNamespace>HdcDst.Utils</RootNamespace>
+  </PropertyGroup>
+
+</Project>
